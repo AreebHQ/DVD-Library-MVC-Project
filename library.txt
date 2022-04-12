@@ -1,0 +1,4 @@
+4::Star Wars::Sep 2021::Lee::PG::Pixar::8/10
+6::Spider Man::Dec 2000::Khan::PG::Pixar::9/10
+3::John Wick I::Dec 2008::Director John::PG::Pixarr::8/10
+2::Jumanji II::Aug 2015::Juan Lee::PG::Marvel::9/10
